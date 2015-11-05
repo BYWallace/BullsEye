@@ -284,6 +284,7 @@
 				FE13D8411BEABD980084B93A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
