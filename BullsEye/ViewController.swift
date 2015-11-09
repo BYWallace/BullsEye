@@ -27,5 +27,9 @@ class ViewController: UIViewController {
         alert.addAction(action)
         presentViewController(alert, animated: true, completion: nil)
     }
+    
+    @IBAction func sliderMoved(slider: UISlider) {
+        print("The value of the slider is now: \(slider.value)")
+    }
 }
 
