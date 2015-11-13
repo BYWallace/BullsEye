@@ -103,6 +103,7 @@
                     </view>
                     <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
                     <connections>
+                        <outlet property="roundLabel" destination="cbp-6X-rlZ" id="B5L-Z2-9pb"/>
                         <outlet property="scoreLabel" destination="Jqz-LF-NRw" id="dXj-fp-zT2"/>
                         <outlet property="slider" destination="Hw4-f1-1g2" id="9I2-ls-wVo"/>
                         <outlet property="targetLabel" destination="uA2-Sz-Iv3" id="CK1-lJ-ioJ"/>
